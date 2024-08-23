@@ -11,7 +11,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
@@ -25,21 +25,13 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/David-Fawlztino/David-Fawlztino/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/Fawl">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Fawl&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
