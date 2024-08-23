@@ -41,7 +41,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/David-Fawlztino/David-Fawlztino/output/snake.svg" alt="Snake animation" />
-
-###
