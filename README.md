@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=David-Fawlztino&show_icons=true&theme=nightowl" height="170" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=David-Fawlztino&show_icons=true&theme=dracula" height="170" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=David-Fawlztino&theme=nightowl&layout=compact" height="170" />
 </div>
 <div align="center">
