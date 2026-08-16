@@ -1,10 +1,12 @@
 <h2 align="center">Olá, me chamo David e sou Dev Front-end</h2>
 
 ###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=David-Fawlztino&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=true&order=1&custom_title=David%C2%B4s%20Stats" height="160" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=David-Fawlztino&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=true&order=2&custom_title=David%C2%B4s%20most%20used%20languages" height="160" alt="languages graph"  />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=David-Fawlztino&show_icons=true&theme=nightowl" height="170" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=David-Fawlztino&theme=nightowl&layout=compact" height="170" />
+</div>
+<div align="center">
+  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
 </div>
 
 ###
